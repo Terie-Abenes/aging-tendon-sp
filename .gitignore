@@ -1,1 +1,4 @@
-node_modules/
+research/
+kie-out/
+new-comments/
+.DS_Store
